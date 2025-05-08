@@ -40,5 +40,5 @@ files_to_download = {
 
 for filename, file_id in files_to_download.items():
     url = f"https://drive.google.com/uc?id={file_id}"
-    output = f"models/{filename}"
+    output = f"NIDS_models/{filename}"
     gdown.download(url, output, quiet=False)
