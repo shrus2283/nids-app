@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.h5
+*.sav
+*.joblib
+*.csv
+*.arff
+*.txt
+*.log
+.DS_Store
+*.pyc
