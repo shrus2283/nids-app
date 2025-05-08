@@ -6,6 +6,9 @@ import tensorflow as tf
 from sklearn.metrics import accuracy_score
 import os
 
+if not os.path.exists("models/encoder_knn_binary.joblib"):
+    os.system("python download_models.py")
+
 st.set_page_config(page_title="NIDS Prediction App", layout="wide")
 st.title("Network Intrusion Detection System")
 st.markdown("Upload a CSV file to predict attacks using your trained models.")
