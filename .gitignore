@@ -5,7 +5,6 @@ __pycache__/
 *.joblib
 *.csv
 *.arff
-*.txt
 *.log
 .DS_Store
 *.pyc
