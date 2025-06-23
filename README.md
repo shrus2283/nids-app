@@ -9,5 +9,11 @@ NSL-KDD Dataset (Improved version of KDD'99)
 
 # Results
 ![Home Page](images/Screenshot1.png)
+![Home Page](images/Screenshot2.png)
+![Home Page](images/Screenshot3.png)
+![Home Page](images/Screenshot4.png)
+![Home Page](images/Screenshot5.png)
+
+
 
 
