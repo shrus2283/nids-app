@@ -8,7 +8,6 @@ Detect and classify malicious network traffic using supervised learning approach
 NSL-KDD Dataset (Improved version of KDD'99)
 
 # Results
-## Binary Classification
-![Binary](images/Screenshot 1.png)
+![Home Page](images/Screenshot 1.png)
 
 
